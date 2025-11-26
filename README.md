@@ -39,9 +39,6 @@ This application allows admins to manage menu items and customers to place food 
 
 *(Make sure your file name is correct.)*
 
----
-
-## 📸 Demo (Console Output)
 
 ```
 ======== Chef’s Choice Console ========
